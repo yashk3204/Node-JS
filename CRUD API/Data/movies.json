@@ -1,0 +1,23 @@
+[
+    {
+        "id": "3b28adc9-22ec-44f0-a4da-ac9348d92520",
+        "title": "Nightcrawler",
+        "year": "2014",
+        "genre": "Thriller, Drama",
+        "rating": "7.8" 
+    },
+    {
+        "id": "44769d13-98a1-4cf1-b57d-777317917ba3",
+        "title": "Goodfellas",
+        "year": "1990",
+        "genre": "Gangster, Drama, Crime",
+        "rating": "8.5" 
+    },
+    {
+        "id": "d0a767cd-f770-4dd0-af66-240300320581",
+        "title": "Inglourious Basterds",
+        "year": "2011",
+        "genre": "Alternative History, Drama",
+        "rating": "8.8" 
+    }
+]
